@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class PLayer : MonoBehaviour
+public class Player : MonoBehaviour
 {
     private Vector3 playerPos;
     private Camera mainCamera;
